@@ -1,10 +1,13 @@
 {
-    "producto": "Qnota2026",
-    "version": "1.0.1",
-    "build": 1,
-    "fecha": "2026-07-19",
-    "descripcion": [
-        "Primera versión estable"
-    ],
-    "archivo": ""
+  "producto": "Qnota2026",
+  "version": "1.0.1",
+  "build": 1,
+  "fecha": "2026-07-19",
+  "descripcion": [
+    "Primera versión estable de Qnota2026"
+  ],
+  "archivo": "",
+  "url_descarga": "",
+  "sha256": "",
+  "obligatoria": false
 }
