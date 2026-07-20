@@ -6,8 +6,8 @@
   "descripcion": [
     "Primera versión estable de Qnota2026"
   ],
-  "archivo": "",
-  "url_descarga": "",
-  "sha256": "",
+  "archivo": "Qnota2026_1.0.1.zip",
+  "url_descarga": "https://github.com/jimvasoft/Qnota2026-Updates/releases/download/v1.0.1/Qnota2026_1.0.1.zip",
+  "sha256": "b6d10f4ca1358adf74464fdd5be34ec312325840957f2142bcd3fcef0fce909e",
   "obligatoria": false
 }
